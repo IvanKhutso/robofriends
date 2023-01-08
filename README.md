@@ -1,3 +1,2 @@
 # robofriends
-
-#Live view https://ivankhutso.github.io/robofriends/
+# [Live view demo](https://ivankhutso.github.io/robofriends/)
